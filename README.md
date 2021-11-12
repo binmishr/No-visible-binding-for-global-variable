@@ -1,0 +1,1 @@
+# No-visible-binding-for-global-variable
